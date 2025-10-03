@@ -2,20 +2,20 @@
 
 Serves 6 as written (typically need 20 servings per hour of service)
 
-## Biscuits
+## Gravy
 
 ### Ingredients
 
 + 450g sausage
 + 50g butter
-+ Medium onion
++ 1 Medium onion, finely diced
 + 1.5 tsp salt
 + 70g AP flour
-+ 700 ml milk
++ 700 mL milk
 + Love
 
 
-## Gravy
+## Biscuits
 
 ### Ingredients
 
