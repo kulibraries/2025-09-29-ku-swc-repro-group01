@@ -1,6 +1,6 @@
 # Worlb-famous biscuits and gravy
 
-Serves 6 as written (typically need 20 servings per hour of service0
+Serves 6 as written (typically need 20 servings per hour of service)
 
 ## Biscuits
 
@@ -10,8 +10,8 @@ Serves 6 as written (typically need 20 servings per hour of service0
 + 50g butter
 + medium onion
 + 1.5 tsp salt
-+ 70g AP flower
-+ 700 mL malk
++ 70g AP flour
++ 700 mL milk
 + Love
 
 
