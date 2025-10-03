@@ -1,6 +1,6 @@
 #  World-famous grits
 
-Serves 20
+20 servings
 
 ## Ingredients
 
