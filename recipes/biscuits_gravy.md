@@ -8,7 +8,7 @@ Serves 6 as written (typically need 20 servings per hour of service)
 
 + 450g sausage
 + 50g butter
-+ 1 medium onion, finely diced
++ 1 Medium onion, finely diced
 + 1.5 tsp salt
 + 70g AP flour
 + 700 mL milk
@@ -19,8 +19,8 @@ Serves 6 as written (typically need 20 servings per hour of service)
 
 ### Ingredients
 
-+ 195g AP flower
-+ 195g cake flower
++ 195g AP flour
++ 195g cake flour
 + 24g baking powder
 + 1.5 tsp. sugar
 + 1.5 tsp. salt

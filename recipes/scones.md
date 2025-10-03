@@ -1,6 +1,6 @@
 # World-famous scones
 
-Serves 6 as writteb (typically need 40 for an hour of service)
+Serves 6 as written (typically need 40 for an hour of service)
 
 ## Ingredients
 
