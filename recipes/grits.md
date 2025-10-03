@@ -1,6 +1,6 @@
 #  World-famous grits
 
-Servces 200
+Services 200
 
 ## Ingredients
 
