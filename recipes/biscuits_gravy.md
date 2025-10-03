@@ -1,4 +1,4 @@
-# Worlb-famous biscuits and gravy
+# World-famous biscuits and gravy
 
 Serves 6 as written (typically need 20 servings per hour of service)
 
@@ -6,12 +6,13 @@ Serves 6 as written (typically need 20 servings per hour of service)
 
 ### Ingredients
 
-+ 450g sausage
-+ 50g butter
-+ medium onion
-+ 1.5 tsp salt
-+ 70g AP flour
-+ 700 mL milk
++ 195g all-purpose flour
++ 195g cake flour
++ 24g baking powder
++ 1 1/2 tsp. sugar
++ 1 1/2 tsp. salt
++ 170g butter
++ 1 1/4 cups buttermilk
 + Love
 
 
@@ -19,11 +20,12 @@ Serves 6 as written (typically need 20 servings per hour of service)
 
 ### Ingredients
 
-+ 195g AP flower
-+ 195g cake flower
-+ 24g baking powder
-+ 1.5 tsp. sugar
-+ 1.5 tsp. salt
-+ 170g butter
-+ 1.25 cups buttermilk
++ 450g sausage
++ 50g butter
++ medium onion
++ 1 1/2 tsp salt
++ 70g all-purpose flour
++  3 cups milk
 + Love
+
+
