@@ -1,8 +1,8 @@
-# World-famous fresshly-squeezed orange juice
+# World-famous freshly-squeezed orange juice
 
-Serves 24 (typical for an hour of service)
+24 servings (typical for an hour of service)
 
 ## Ingredients
 
-+ 16 lemons
-+ 17days Love
++ 16 oranges
++ Love
